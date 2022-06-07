@@ -1,0 +1,23 @@
+{
+  "name": "compendium-heroku-app",
+  "version": "1.0.0",
+  "description": "Heroku app for 100Devs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elbowgreasel/Compendium-Heroku-App.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elbowgreasel/Compendium-Heroku-App/issues"
+  },
+  "homepage": "https://github.com/elbowgreasel/Compendium-Heroku-App#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1"
+  }
+}
